@@ -76,7 +76,7 @@ function Plan({ plan }: SubscriptionPlanProps) {
 
   return (
     <PricingPlan featured={plan.featured}>
-      {plan.featured && <PricingPlan.Featured>Best Value</PricingPlan.Featured>}
+      {plan.featured && <PricingPlan.Featured>Best Seller</PricingPlan.Featured>}
       <PricingPlan.Header label={plan.name} description={plan.description} />
       {!isAnnually ? (
         <PricingPlan.Price

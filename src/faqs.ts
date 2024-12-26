@@ -17,7 +17,7 @@ export const FAQs = [
   {
     title: 'Can my accountant access my account?',
     content:
-      'Sure. With your accounting system connected to the cloud, your accountant can use their own login to access reports such as the general ledger, balance sheet, or cash flow statement anytime they need.',
+      'With your accounting system connected to the cloud, your accountant can use their own login to access reports such as the general ledger, balance sheet, or cash flow statement anytime they need.',
   },
   {
     title: 'Do some banks charge for bank feeds syncing?',

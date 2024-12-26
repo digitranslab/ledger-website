@@ -139,19 +139,6 @@ export function TopBar({ beforeNavbar, afterNavbar }: TopBarProps) {
             )}
           >
             <div className="flex flex-col lg:flex-row ml-auto items-stretch lg:items-center">
-              <NavItem className={'pb-2 lg:pb-0 mr-4'}>
-                <iframe
-                  src="https://ghbtns.com/github-btn.html?user=digitranslab&repo=ledger&type=star&size=large&count=true"
-                  scrolling="0"
-                  width="150"
-                  height="30"
-                  title="Ledger Github Repository"
-                ></iframe>
-              </NavItem>
-
-              <NavItem>
-                <NavLink href="/blog">Blog</NavLink>
-              </NavItem>
 
               <NavItem>
                 <NavLink href={"/pricing"}>Pricing</NavLink>
@@ -163,7 +150,7 @@ export function TopBar({ beforeNavbar, afterNavbar }: TopBarProps) {
 
               <NavItem>
                 <NavLink href={'https://docs.ledger.app'} target="_blank">
-                  Docs
+                  Technical Support
                 </NavLink>
               </NavItem>
 

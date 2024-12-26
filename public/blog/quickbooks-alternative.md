@@ -1,9 +1,9 @@
 ---
-title: 'Ledger - Open-source Alternative to QuickBooks'
-subtitle: Modern, Open-Source and Self-hosted Core Accounting Software
+title: 'Ledger - An Alternative to QuickBooks'
+subtitle: Modern Core Accounting Software
 date: '2024-05-06'
-author: Ahmed Bouhuolia
-authorEmail: a.bouhuolia@gmail.com
+author: Digitrans Inc
+authorEmail: developers@digi-trans.com
 picture: /quickbooks-alternative/featured.png
 ---
 
@@ -46,5 +46,3 @@ Some of our key features which makes Ledger vastly superior to current open-sour
 ### Getting started with Ledger
 
 **Ledger Cloud** is the easiest way to run Ledger. [Sign up](https://my.ledger.app/auth/register) and get the early adopter plan you'll get unlimited users and full features access.
-
-You can also install and self-host Ledger yourself since it is [open-source](https://github.com/digitranslab/ledger). With 2,100+ GitHub stars, Find the [instructions](https://docs.ledger.app/deployment/docker#upgrading) to self-host Ledger.

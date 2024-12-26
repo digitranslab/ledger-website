@@ -5,7 +5,7 @@ date: '2024-07-09'
 
 We are thrilled to announce the launch of new enhancements to the banking service, including the introduction of bank rules and the ability to categorize and match bank transactions manually. These improvements will significantly reduce the time it takes to close your books.
 
-Bank rules are set of predefined criteria that you set up for your bank account. You inform Bigcaptial how the pulled bank transactions being automatically categorized and assigned to the appropriate categories and accounts. This process saves you time, streamlines reconciliation, and ensures your financial records are accurate.
+Bank rules are set of predefined criteria that you set up for your bank account. You inform Ledger how the pulled bank transactions being automatically categorized and assigned to the appropriate categories and accounts. This process saves you time, streamlines reconciliation, and ensures your financial records are accurate.
 
 ![Bank rules list](/images/updates/bank-rules/bank-rules.png "Bank rules list")
 

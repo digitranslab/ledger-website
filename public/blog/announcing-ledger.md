@@ -2,8 +2,8 @@
 title: 'Announcing Ledger'
 subtitle: 'Modern, Open-Source and Self-hosted Core Accounting Software'
 date: '2024-05-05'
-author: Ahmed Bouhuolia
-authorEmail: a.bouhuolia@gmail.com
+author: Digitrans Inc
+authorEmail: developers@digi-trans.com
 picture: /quickbooks-alternative/featured.png
 ---
 

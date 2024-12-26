@@ -158,7 +158,7 @@ function PagesWidget() {
 
 export default function Footer() {
   return (
-    <div className="bg-[#000931] text-white text-opacity-65 pt-[50px] text-center md:text-left">
+    <div className="bg-[#00a99d] text-white text-opacity-65 pt-[50px] text-center md:text-left">
       <div className="container mx-auto px-4">
         <div className="flex flex-col md:flex-row gap-2 md:gap-20">
           <div className="w-full lg:w-[25%]">
@@ -170,7 +170,7 @@ export default function Footer() {
               </div>
               <div className="footer-text mb-0 mt-3">
                 <p>
-                  Online accounting software, built to automate business
+                  Built to automate business
                   financial processes.
                 </p>
               </div>
@@ -189,7 +189,7 @@ export default function Footer() {
       <div className="text-md text-white/50 tracking-tight text-center ">
         <div className="container mx-auto px-4.5">
           <div className="border-t border-white/20 pt-7 pb-7 ">
-            <p>Copyright © 2024 — Made by Digitrans Technology, Inc.</p>
+            <p>Copyright © 2024 — A Product of Digitrans, Inc.</p>
           </div>
         </div>
       </div>

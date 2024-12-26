@@ -33,12 +33,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.7,
     },
     {
-      url: 'https://ledger.app/blog/early-adopter-plan',
-      lastModified: new Date(),
-      changeFrequency: 'weekly',
-      priority: 0.7,
-    },
-    {
       url: 'https://ledger.app/updates/bank-rules',
       lastModified: new Date(),
       changeFrequency: 'weekly',

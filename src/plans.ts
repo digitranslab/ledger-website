@@ -20,8 +20,8 @@ export interface SubscriptionPlan {
 
 export const SubscriptionPlans = [
   {
-    name: 'Capital Basic',
-    slug: 'capital_basic',
+    name: 'Ledger Basic',
+    slug: 'ledger_basic',
     description:
       'Good for businesses just started, want to categorize bank transactions and financial reports.',
     features: [
@@ -45,18 +45,18 @@ export const SubscriptionPlans = [
       },
       { text: 'Unlimited User Seats' },
     ],
-    monthlyPrice: '$20',
+    monthlyPrice: '$19',
     monthlyPriceLabel: 'Per month',
     annuallyPrice: '$15',
     annuallyPriceLabel: 'Per month',
   },
   {
-    name: 'Capital Essential',
-    slug: 'capital_plus',
+    name: 'Ledger Pro',
+    slug: 'ledger_pro',
     description:
       'Good for have inventory and want more advanced financial reports, multiple transactions currency.',
     features: [
-      { text: 'All Capital Basic features' },
+      { text: 'All Ledger Basic features' },
       { text: 'Purchase Invoices' },
       {
         text: 'Multi Currency Transactions',
@@ -76,18 +76,18 @@ export const SubscriptionPlans = [
       { text: 'Smart Financial Reports' },
       { text: 'Advanced Inventory Reports' },
     ],
-    monthlyPrice: '$40',
+    monthlyPrice: '$39',
     monthlyPriceLabel: 'Per month',
-    annuallyPrice: '$30',
+    annuallyPrice: '$29',
     annuallyPriceLabel: 'Per month',
   },
   {
-    name: 'Capital Plus',
-    slug: 'essentials',
+    name: 'Ledger Pro Plus',
+    slug: 'proplus',
     description:
       'Good for  business want financial and access control, budgeting and analysis tools.',
     features: [
-      { text: 'All Capital Essential features' },
+      { text: 'All Ledger Essential features' },
       { text: 'Custom User Roles Access' },
       { text: 'Vendor Credits' },
       {
@@ -98,17 +98,17 @@ export const SubscriptionPlans = [
     ],
     monthlyPrice: '$55',
     monthlyPriceLabel: 'Per month',
-    annuallyPrice: '$40',
+    annuallyPrice: '$39',
     annuallyPriceLabel: 'Per month',
     featured: true,
   },
   {
-    name: 'Capital Big',
+    name: 'Ledger Enterprise',
     slug: 'essentials',
     description:
-      'Good for scaling businesses want track transcations on multiple branches and stocks.',
+      'Good for scaling businesses want track transactions on multiple branches and stocks.',
     features: [
-      { text: 'All Capital Plus features' },
+      { text: 'All Ledger Pro Plus features' },
       {
         text: 'Multiple Branches',
         hintLabel: '',
@@ -120,7 +120,7 @@ export const SubscriptionPlans = [
         hint: 'Track the organization inventory in multiple warehouses and transfer goods between them.',
       },
     ],
-    monthlyPrice: '$60',
+    monthlyPrice: '$59',
     monthlyPriceLabel: 'Per month',
     annuallyPrice: '$45',
     annuallyPriceLabel: 'Per month',

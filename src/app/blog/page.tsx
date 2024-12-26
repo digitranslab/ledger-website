@@ -82,7 +82,7 @@ function Post({
                 />
               </div>
               <p className="text-sm font-normal text-darkblue-800">
-                Ahmed Bouhulia ·{' '}
+                Digitrans Inc ·{' '}
               </p>
               <p className="text-sm font-normal text-[#6b7280]">
                 <time dateTime="2024-04-11">{formattedDate}</time>
