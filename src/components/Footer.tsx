@@ -175,28 +175,16 @@ export default function Footer() {
 
                 </p>
               </div>
-
               <div className="footer-text mb-0 mt-3">
-                <p
-                    target="_blank"
-                    className={'hover:text-darkblue-800 transition-colors'}
-                    href="https://discord.gg/c8nPBJafeb"
-                >
+                <p>
                   📞 00971 50 205 57 33
-
                 </p>
               </div>
-
               <div className="footer-text mb-0 mt-3">
-                <p
-                    target="_blank"
-                    className={'hover:text-darkblue-800 transition-colors'}
-                    href="https://discord.gg/c8nPBJafeb"
-                >
+                <p>
                   📨 developers@digi-trans.org
                 </p>
               </div>
-
 
             </div>
           </div>
