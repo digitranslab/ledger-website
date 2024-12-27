@@ -145,12 +145,12 @@ export function TopBar({ beforeNavbar, afterNavbar }: TopBarProps) {
               </NavItem>
 
               <NavItem>
-                <NavLink href="/updates">Updates</NavLink>
+                <NavLink href="/updates">Releases</NavLink>
               </NavItem>
 
               <NavItem>
                 <NavLink href={'https://docs.ledger.app'} target="_blank">
-                  Technical Support
+                  Documentation
                 </NavLink>
               </NavItem>
 
@@ -174,21 +174,21 @@ export function TopBar({ beforeNavbar, afterNavbar }: TopBarProps) {
                 </a>
               </NavItem> */}
 
-              <div className="hidden lg:block lg:ml-4 d-lg-none">
-                <NavButton variant={'outline'} href={AppUrl.SignIn}>
-                  Sign In
-                </NavButton>
-              </div>
+              {/*<div className="hidden lg:block lg:ml-4 d-lg-none">*/}
+              {/*  <NavButton variant={'outline'} href={AppUrl.SignIn}>*/}
+              {/*    Sign In*/}
+              {/*  </NavButton>*/}
+              {/*</div>*/}
 
-              <NavItem className={'hidden lg:block lg:ml-4'}>
-                <NavButton
-                  className={'px-6'}
-                  variant={'solid'}
-                  href={AppUrl.SignUp}
-                >
-                  Sign Up
-                </NavButton>
-              </NavItem>
+              {/*<NavItem className={'hidden lg:block lg:ml-4'}>*/}
+              {/*  <NavButton*/}
+              {/*    className={'px-6'}*/}
+              {/*    variant={'solid'}*/}
+              {/*    href={AppUrl.SignUp}*/}
+              {/*  >*/}
+              {/*    Sign Up*/}
+              {/*  </NavButton>*/}
+              {/*</NavItem>*/}
             </div>
           </div>
         </div>

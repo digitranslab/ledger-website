@@ -36,24 +36,24 @@ export default function Page() {
             'text-center flex gap-3 md:gap-4 justify-center flex-col md:flex-row'
           }
         >
-          <Link
-            className={
-              'inline-block h-[44px] text-lg leading-[44px] rounded-full px-5 bg-indigo text-white hover:bg-indigo-dark w-full md:w-auto'
-            }
-            href={AppUrl.SignUp}
-          >
-            Free 14-day trial
-          </Link>
+          {/*<Link*/}
+          {/*  className={*/}
+          {/*    'inline-block h-[44px] text-lg leading-[44px] rounded-full px-5 bg-indigo text-white hover:bg-indigo-dark w-full md:w-auto'*/}
+          {/*  }*/}
+          {/*  href={AppUrl.SignUp}*/}
+          {/*>*/}
+          {/*  Free 14-day trial*/}
+          {/*</Link>*/}
 
-          <Link
-            className={
-              'inline-block rounded-full text-lg text-darkblue-900 px-5 border border-darkblue-700 text-darkblue-600 h-[44px] leading-[44px] hover:text-white hover:bg-darkblue-600 w-full md:w-auto'
-            }
-            href="https://docs.ledger.app/deployment/docker"
-            target="_blank"
-          >
-            Self Host
-          </Link>
+          {/*<Link*/}
+          {/*  className={*/}
+          {/*    'inline-block rounded-full text-lg text-darkblue-900 px-5 border border-darkblue-700 text-darkblue-600 h-[44px] leading-[44px] hover:text-white hover:bg-darkblue-600 w-full md:w-auto'*/}
+          {/*  }*/}
+          {/*  href="https://docs.ledger.app/deployment/docker"*/}
+          {/*  target="_blank"*/}
+          {/*>*/}
+          {/*  Self Host*/}
+          {/*</Link>*/}
         </div>
 
         {/* <div className={'mb4'}>

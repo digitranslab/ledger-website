@@ -30,15 +30,15 @@ function SocialWidget() {
             Twitter
           </a>
         </li>
-        <li className={'mb-2'}>
-          <a
-            target="_blank"
-            href="https://medium.com/bigcpaitalhq"
-            className={'hover:text-white transition-colors'}
-          >
-            Medium
-          </a>
-        </li>
+        {/*<li className={'mb-2'}>*/}
+        {/*  <a*/}
+        {/*    target="_blank"*/}
+        {/*    href="https://medium.com/digitranslab"*/}
+        {/*    className={'hover:text-white transition-colors'}*/}
+        {/*  >*/}
+        {/*    Medium*/}
+        {/*  </a>*/}
+        {/*</li>*/}
         <li className={'mb-2'}>
           <a
             target="_blank"
@@ -76,15 +76,15 @@ function CompanyWidget() {
             Privacy policy
           </Link>
         </li>
-        <li className={'mb-2'}>
-          <a
-            target="_blank"
-            className={'hover:text-white transition-colors'}
-            href="https://discord.gg/c8nPBJafeb"
-          >
-            Contact Us
-          </a>
-        </li>
+        {/*<li className={'mb-2'}>*/}
+        {/*  <a*/}
+        {/*    target="_blank"*/}
+        {/*    className={'hover:text-white transition-colors'}*/}
+        {/*    href="https://discord.gg/c8nPBJafeb"*/}
+        {/*  >*/}
+        {/*    Contact Us*/}
+        {/*  </a>*/}
+        {/*</li>*/}
       </ul>
     </div>
   );
@@ -134,22 +134,22 @@ function PagesWidget() {
         </li>
 
         <li className={'mb-3'}>
-          <a
-            target={'_blank'}
-            href={'https://ledger.statuspage.io/'}
-            className={'hover:text-white transition-colors'}
-          >
-            Status
-          </a>
+          {/*<a*/}
+          {/*  target={'_blank'}*/}
+          {/*  href={'https://ledger.statuspage.io/'}*/}
+          {/*  className={'hover:text-white transition-colors'}*/}
+          {/*>*/}
+          {/*  Status*/}
+          {/*</a>*/}
         </li>
 
         <li>
-          <a
-            href={'/oss-friends'}
-            className={'hover:text-white transition-colors'}
-          >
-            OSS Friends
-          </a>
+          {/*<a*/}
+          {/*  href={'/oss-friends'}*/}
+          {/*  className={'hover:text-white transition-colors'}*/}
+          {/*>*/}
+          {/*  OSS Friends*/}
+          {/*</a>*/}
         </li>
       </ul>
     </div>
@@ -163,25 +163,49 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row gap-2 md:gap-20">
           <div className="w-full lg:w-[25%]">
             <div className="mb-[40px] md:mb-[60px]">
-              <div className="mt-1 mb-6">
-                <Link href="/" aria-label={'Ledger'}>
-                  <LedgerAlt fill="#fff" width={180} className={'inline'} />
-                </Link>
-              </div>
+              {/*<div className="mt-1 mb-6">*/}
+              {/*  /!*<Link href="/" aria-label={'Ledger'}>*!/*/}
+              {/*  /!*  <LedgerAlt fill="#fff" width={180} className={'inline'} />*!/*/}
+              {/*  /!*</Link>*!/*/}
+              {/*</div>*/}
               <div className="footer-text mb-0 mt-3">
                 <p>
                   Built to automate business
                   financial processes.
+
                 </p>
               </div>
+
+              <div className="footer-text mb-0 mt-3">
+                <p
+                    target="_blank"
+                    className={'hover:text-darkblue-800 transition-colors'}
+                    href="https://discord.gg/c8nPBJafeb"
+                >
+                  📞 00971 50 205 57 33
+
+                </p>
+              </div>
+
+              <div className="footer-text mb-0 mt-3">
+                <p
+                    target="_blank"
+                    className={'hover:text-darkblue-800 transition-colors'}
+                    href="https://discord.gg/c8nPBJafeb"
+                >
+                  📨 developers@digi-trans.org
+                </p>
+              </div>
+
+
             </div>
           </div>
 
           <nav className="ml-auto w-full lg:w-[60%]">
             <div className="flex flex-col md:flex-row flex-grow grow">
-              <PagesWidget />
-              <CompanyWidget />
-              <SocialWidget />
+              <PagesWidget/>
+              <CompanyWidget/>
+              <SocialWidget/>
             </div>
           </nav>
         </div>
