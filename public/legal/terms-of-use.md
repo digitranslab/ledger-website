@@ -4,7 +4,7 @@ slug: /legal/terms-of-use
 locale: en
 ---
 
-These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and Ledger, Inc. ("Company"), concerning your access to and use of the https://ledger.app website as well as any other web application or mobile application related, linked, or otherwise connected thereto (collectively, the “Site”). You agree that by accessing the Site and related applications, you have read, understood, and agree to be bound by all of these Terms of Use. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SITE AND YOU MUST DISCONTINUE USE IMMEDIATELY.
+These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and Ledger, Inc. ("Company"), concerning your access to and use of the https://getledger.io website as well as any other web application or mobile application related, linked, or otherwise connected thereto (collectively, the “Site”). You agree that by accessing the Site and related applications, you have read, understood, and agree to be bound by all of these Terms of Use. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SITE AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
 We reserve the right, in our sole discretion, to make changes or modifications to these Terms of Use at any time and for any reason. We will alert you about any changes by updating the “Last updated” date of these Terms of Use, and you waive any right to receive specific notice of each such change. Please ensure that you check the applicable Terms every time you use our Site so that you understand which Terms apply. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms of Use by your continued use of the Site after the date such revised Terms of Use are posted.
 
@@ -18,7 +18,7 @@ We offer a 15-day free trial to new users who register with the Site. The accoun
 
 You can cancel your subscription at any time by logging into your account. Your cancellation will take effect at the end of the current paid term. Your data will be deleted in 15 days of the unsubscription date from our all servers.
 
-If you are unsatisfied with our services, please email us at info@ledger.app or call us at 2180927381987.
+If you are unsatisfied with our services, please email us at info@getledger.io or call us at 2180927381987.
 
 ## DATA USE AND PRIVACY
 

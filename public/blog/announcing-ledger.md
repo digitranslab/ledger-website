@@ -27,6 +27,6 @@ This is why accounting software is still one of the oldest and most popular type
 
 - **Self-hosted & Cloud Accounting**, let users host their data on their own servers and develop additional features and integrations based on the core functionalities. Ledger Cloud offers the convenience of using and accessing financial data without worrying about infrastructure setup.
 
-**Ledger Cloud** is the easiest way to run Ledger. [Sign up](https://app.ledger.app) and share your feedback with us through our [community](https://community.ledger.app).
+**Ledger Cloud** is the easiest way to run Ledger. [Sign up](https://app.getledger.io) and share your feedback with us through our [community](https://community.getledger.io).
 
-You can also [install](https://docs.ledger.app/deployment/docker) the self-host Ledger Community yourself since it is open-source. With [2,300+ GitHub stars](https://github.com/digitranslab/ledger), Find the instructions.
+You can also [install](https://docs.getledger.io/deployment/docker) the self-host Ledger Community yourself since it is open-source. With [2,300+ GitHub stars](https://github.com/digitranslab/ledger), Find the instructions.

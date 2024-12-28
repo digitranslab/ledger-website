@@ -149,7 +149,7 @@ export function TopBar({ beforeNavbar, afterNavbar }: TopBarProps) {
               </NavItem>
 
               <NavItem>
-                <NavLink href={'https://docs.ledger.app'} target="_blank">
+                <NavLink href={'https://docs.getledger.io'} target="_blank">
                   Documentation
                 </NavLink>
               </NavItem>

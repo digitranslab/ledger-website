@@ -45,4 +45,4 @@ Some of our key features which makes Ledger vastly superior to current open-sour
 
 ### Getting started with Ledger
 
-**Ledger Cloud** is the easiest way to run Ledger. [Sign up](https://my.ledger.app/auth/register) and get the early adopter plan you'll get unlimited users and full features access.
+**Ledger Cloud** is the easiest way to run Ledger. [Sign up](https://my.getledger.io/auth/register) and get the early adopter plan you'll get unlimited users and full features access.

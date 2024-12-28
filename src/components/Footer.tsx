@@ -106,7 +106,7 @@ function PagesWidget() {
         <li className={'mb-3'}>
           <a
             target="_blank"
-            href="https://docs.ledger.app"
+            href="https://docs.getledger.io"
             className={'hover:text-white transition-colors'}
           >
             Documentation
@@ -116,7 +116,7 @@ function PagesWidget() {
         <li className={'mb-3'}>
           <a
             target={'_blank'}
-            href={'https://community.ledger.app/'}
+            href={'https://community.getledger.io/'}
             className={'hover:text-white transition-colors'}
           >
             Community
@@ -126,7 +126,7 @@ function PagesWidget() {
         <li className={'mb-3'}>
           <a
             target="_blank"
-            href="https://docs.ledger.app/roadmap"
+            href="https://docs.getledger.io/roadmap"
             className={'hover:text-white transition-colors'}
           >
             Product Roadmap

@@ -49,7 +49,7 @@ export default function Page() {
           {/*  className={*/}
           {/*    'inline-block rounded-full text-lg text-darkblue-900 px-5 border border-darkblue-700 text-darkblue-600 h-[44px] leading-[44px] hover:text-white hover:bg-darkblue-600 w-full md:w-auto'*/}
           {/*  }*/}
-          {/*  href="https://docs.ledger.app/deployment/docker"*/}
+          {/*  href="https://docs.getledger.io/deployment/docker"*/}
           {/*  target="_blank"*/}
           {/*>*/}
           {/*  Self Host*/}
